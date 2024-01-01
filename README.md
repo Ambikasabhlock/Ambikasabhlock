@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Ambika, an enthusiastic and aspiring web developer who is passionate about creating engaging and user-friendly websites. 
+Hi there! 👋 I'm Ambika, as i have completed my bachelor in BscIT and an enthusiastic and aspiring web developer who is passionate about creating engaging and user-friendly websites. 
 Currently in the early stages of my web development journey,
 I am eager to learn and explore the ever-evolving world of technology.
 
